@@ -1,0 +1,2120 @@
+000@live.ca => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 08:29:59 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+000skaterdude000@live.ca => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 08:30:00 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+001testfbq@hotmail.ca => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 08:30:08 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+001vamp@live.com.au => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 08:30:08 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+007.caliente@live.com.mx => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 08:30:16 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+007chick@hotmail.ca => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 08:30:17 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+007pikachu@naver.com => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 08:30:25 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+007ricc@live.ca => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 08:30:25 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+00bb11@hotmail.com.au => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 08:30:33 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+00blake00@live.com.au => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 08:30:34 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+010408js@live.ca => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 08:30:17 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+0107park@daum.net => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 08:30:18 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+01jase@hotmail.com.au => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 08:30:26 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+01kayla@live.com.au => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 08:30:26 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+0206rhonda@hotmail.ca => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 08:30:34 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+020@live.com.au => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 08:30:35 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+032.nic@live.com.au => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 08:30:42 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+0351@live.com.au => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 08:30:43 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+0422-pft-u-wish@live.com.au => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 08:30:51 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+0439630dan@live.com.au => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 08:30:52 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+0503@live.ca => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 08:31:00 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+0505@live.com.au => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 08:31:00 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+06megacab@hotmail.ca => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 08:31:08 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+06_mount_jarrod@live.com.au => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 08:31:09 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+07charliee@live.com.au => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 08:31:16 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+07danny@live.com.au => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 08:31:17 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+07.ronaldo@live.com.au => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 08:31:25 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+07sarida@live.com.au => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 08:31:25 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+08boldan@hotmail.com.au => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 08:31:33 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+08bomb@live.com.au => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 08:31:34 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+08@live.com.au => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 08:31:42 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+08mark72@live.com.au => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 08:31:43 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+090807@live.com.au => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 08:31:50 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+09_0924911@live.com.au => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 08:31:51 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+09torres@live.com.au => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 08:31:59 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+09tracy@hotmail.com.au => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 08:31:59 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+0jakeface0@live.com.au => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 08:32:07 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+0-kaldex-0@hotmail.com.au => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 08:32:08 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+0noah@live.ca => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 08:32:16 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+0o0o@live.com.au => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 08:32:16 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+0x-blind-x0@live.ca => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 08:32:24 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+1000000@live.ca => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 08:32:25 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+100889@csbcnet.com.tw => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 08:32:33 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+100beats@live.com.au => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 08:32:33 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+100percentlegal@hotmail.ca => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 08:32:41 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+100percentxander@live.com.au => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 08:32:42 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+101ash@live.com.au => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 08:32:49 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+101axel@live.com.au => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 08:32:50 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+101_james@live.com.au => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 08:32:58 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+101james@live.com.au => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 08:32:58 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+101sarah@live.com.au => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 08:33:06 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+101sk8ter@live.com.au => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 08:33:07 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+1031351334@qq.com => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 08:33:15 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+104chick@live.com.au => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 08:33:15 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+10aaaaaaaaaa10@live.ca => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 08:33:23 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+10basketball10@live.com.au => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 08:33:24 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+10gui-gui10@live.ca => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 08:33:32 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+10iceman01@live.com.au => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 08:33:32 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+10nick@live.ca => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 08:33:40 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+10olivia@live.com.au => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 08:33:41 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+10woody@live.com.au => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 08:33:48 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+10zim_zelmazi@live.com.au => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 08:33:49 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+111-222-1933email@address.tst => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 08:33:57 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+1112223331928@live.com.au => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 08:33:57 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+1-1-2-2-3-3-4-4@live.com.au => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 08:34:05 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+112349@live.ca => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 08:34:06 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+113fairvew@live.com.au => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 08:34:14 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+11403juan@hotmail.ca => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 08:34:14 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+117-spartan-laser@live.com.au => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 08:34:22 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+1182st-laurent@hotmail.ca => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 08:34:23 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+11bridie@live.com.au => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 08:34:31 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+11.caiosantos@hotmail.com => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 08:34:31 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+11.love.24@hotmail.com.au => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 08:34:39 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+11maddy@live.com.au => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 08:34:40 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+1212-sk8er-1212@hotmail.ca => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 08:34:47 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+121gigawattz@hotmail.ca => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 08:34:48 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+1231996@live.ca => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 08:34:56 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+1231katie@live.com.au => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 08:34:56 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+1234509@live.com.au => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 08:35:04 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+123456.123456@live.ca => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 08:35:05 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+12345678910@hotmail.com.au => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 08:35:13 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+123456789123456789@hotmail.com.au => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 08:35:13 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+123456789beach@live.com.au => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 08:35:21 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+123456789@hotmail.com.au => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 08:35:22 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+123456jesus@hotmail.ca => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 08:35:54 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+123456king@live.com.au => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 08:35:55 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+12345.hello@live.com.au => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 08:36:02 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+12345@hotmail.com.au => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 08:36:03 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+1234abc@hotmail.com => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 08:35:46 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+1234-a@live.com.au => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 08:36:11 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+1234delamontagne@hotmail.ca => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 08:36:19 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+1234dylan@live.com.au => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 08:36:20 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+1234_mobsters@live.com.au => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 08:36:03 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+1234more@live.ca => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 08:36:28 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+1234thumbwar@live.com.au => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 08:36:36 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+1234tygfjksi4632@live.com.au => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 08:36:12 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+12378@live.ca => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 08:36:20 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+123a321@live.com.au => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 08:36:45 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+123adamthepom@live.com.au => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 08:36:53 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+123addz_11@hotmail.com.au => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 08:36:29 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+123boo@live.com.au => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 08:37:01 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+123-brandon@live.com.au => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 08:37:02 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+123cool@live.com.au => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 08:37:10 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+123coolman@live.ca => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 08:37:10 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+123ef@hotmail.ca => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 08:36:54 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+123em456@live.com.au => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 08:37:19 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+123friend@live.com.au => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 08:37:02 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+123frog@hotmail.ca => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 08:37:27 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+123@hotmail.ca => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 08:37:35 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+123@hotmail.com => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 08:37:11 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+april_hardy251@hotmail.com => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 23:50:14 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+aprilhardy@live.com.au => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 23:50:16 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+april.kane@live.ca => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 23:50:40 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+aprilkate@hotmail.com.au => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 23:50:42 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+april_lovatt51@msn.com.au => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 23:51:06 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+aprillovesoren@live.com.au => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 23:51:08 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+april_may_mylittleangel@hotmail.com => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 23:51:31 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+aprilmc2@live.com.au => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 23:51:34 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+aprilnjc@hotmail.com => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 23:51:57 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+april.norris@hotmail.ca => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 23:51:59 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+april.rose@live.com.au => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 23:52:23 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+aprilroskell@live.com.au => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 23:52:25 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+april-w@live.ca => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 23:52:40 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+aprilwood@live.ca => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 23:52:42 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+aprs462@live.ca => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 23:53:06 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+apryl-condie83@hotmail.ca => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 23:53:08 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+apteryx@live.ca => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 23:53:32 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+apt@msn.com.au => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 23:53:34 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+apurdy@live.ca => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 23:53:58 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+a_pure_azn_angel@hotmail.com => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 23:54:00 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+aq@alsharif.ae => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 23:54:24 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+a.qasim@hotmail.ca => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 23:54:26 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+aqtran@hotmail.com.au => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 23:54:50 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+aqu52@live.com.au => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 23:54:52 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+aqua_borrie@hotmail.com.au => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 23:55:15 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+aquacargokamerun@gmail.com => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 23:55:17 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+aquafishes@live.ca => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 23:55:41 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+aquafreshin@yahoo.com => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 23:55:43 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+aqualuna202@live.com.au => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 23:56:07 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+aquaman16@live.com.au => HTTP/1.1 403 
+Date: Sat, 20 Oct 2018 23:56:09 GMT
+Content-Type: application/octet-stream
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-BuildVersion: R16-1
+X-FRAME-OPTIONS: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.apple.com https://*.cdn-apple.com ; object-src 'self'; style-src 'unsafe-inline' https://*.apple.com https://*.cdn-apple.com http://appleid-localdev.apple.com:* ; img-src 'self' data: https://*.apple.com https://*.cdn-apple.com https://*.icloud.com https://*.mzstatic.com http://images.apple.com ; media-src * data:; connect-src 'self' https://api.apple-cloudkit.com https://feedbackws.apple-cloudkit.com https://cvws.icloud-content.com;
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Apple
+
+ardog@live.com.au => HTTP/1.1 502 Bad Gateway
+Date: Sun, 21 Oct 2018 00:01:19 GMT
+Content-Type: text/html
+Content-Length: 568
+Connection: keep-alive
+Server: Apple
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>Apple</center>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
